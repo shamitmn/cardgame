@@ -34,7 +34,7 @@ button {
     margin-bottom: 2px;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 250px) {
     body {
         background-image: url("images/image.jpg");
     }
